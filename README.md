@@ -2,7 +2,7 @@
 - 👀 I’m interested in development of cloud based solutions, software algorithm, machine learning and AI etc.
 - 🌱 I’m currently learning how to deploy containerized solution on my day job as well as planting coffee trees.
 - 💞️ I’m looking to collaborate on any interesting software project.
-- 📫 How to reach me at gitnget @ Gee Mail
+- 📫 Reach me at gitnget @ Gee Mail
 
 <!---
 gitnget/gitnget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
